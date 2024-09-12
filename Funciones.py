@@ -23,6 +23,4 @@ def C_F(C):
     return temperatura
 def F_C(F):
     temperatura = (F-32)/1.8
-    return temperatura 
-
-
+    return temperatura

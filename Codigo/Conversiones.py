@@ -32,5 +32,5 @@ while True:
             F = int(input("Ingrese cuantos ferenheit convertir: "))
             print("Tienes {} C°".format(Funciones.F_C(F)))
     elif opcion == 4:
-        break
+        break 
     

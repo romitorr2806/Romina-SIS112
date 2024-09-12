@@ -1,4 +1,4 @@
-import Funciones
+import Codigo.Funciones as Funciones
 while True:
     opcion = Funciones.opciones()
     if opcion == 1:
